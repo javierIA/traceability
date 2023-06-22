@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "Traceability 4.0",
+    "paragraph": "Traceability converts any conventional manufacturing machine into a 4.0 manufacturing system by assisting with AI in the predictive control of production, analytics, maintenance, calibration, OEE, production. Traceability guarantees that only operators who have the proper training or certification for a process can run a machine. ​"
+  },
+  "About": {
+    "paragraph": "Traceability 4.0 is a module for the manufacturing industry that extracts and generates information from our machines, workstations, production operators, and automated or manual manufacturing lines. Its purpose is to improve production processes through the application of Artificial Intelligence.",
+    "Why": [
+      "Enhances operational efficiency",
+      "Improves quality control",
+      "Enables proactive decision-making",
+      "Increases supply chain visibility",
+      "Detects downtime and reduces production losses",
+      "Measures and improves machine efficiency (OEE - Overall Equipment Effectiveness)",
+      "Applies data analytics on worker performance",
+      "Enables preventive and predictive maintenance using modern techniques"
+    ],
+    "Why2": [
+      "Provides a list of employees who arrive before the shift starts",
+      "Detects and tracks the first production part",
+      "Intelligently distributes workforce based on skills, training, and certifications",
+      "Performs data mining and analytics",
+      "Detects and manages intelligent calibration",
+      "Offers a flexible platform tailored to specific needs",
+      "Leverages Artificial Intelligence in the manufacturing industry"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "Flexibility",
+      "text": "Converts any manufacturing machine into an intelligent 4.0 system without the need to replace PLCs or controls. This provides flexibility and scalability to adapt to changing production needs and technologies."
+    },
+    {
+      "icon": "fa fa-check-circle",
+      "name": "Calibration",
+      "text": "Prevents calibration expiration of all sensors, transducers, and controls of my manufacturing machines. Ensuring accurate calibration maintains precision and reliability in the production process."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "OEE",
+      "text": "Collects production data that helps us improve productivity and reduce downtime. By analyzing OEE (Overall Equipment Effectiveness), we can identify bottlenecks, optimize machine efficiency, and minimize production losses."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "Mantenimiento",
+      "text": "Supports the maintenance department with preventive, corrective, and predictive maintenance alerts, as well as documentation for troubleshooting. This ensures optimal equipment performance, minimizes downtime, and extends the lifespan of manufacturing assets."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Production",
+      "text": "Detection of the time from the first production part. Tracking the time from the start of production enables us to monitor production speed, identify inefficiencies, and make informed decisions to optimize the manufacturing process."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "System Diagnosis (Health Check)",
+      "text": "Assess current system conditions to define priorities to address"
+    },
+    {
+      "icon": "fa fa-repeat",
+      "title": "Process Stabilization",
+      "text": "RRR - Repeatable, Replicable & Reproducible (Standardized work)"
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Process Improvement",
+      "text": "Information – Material Flow, Quality, Delivery, Connections, Capabilities (All cost associated with business) ​"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "Implementation of Organic Technology",
+      "text": "ERP's embedded Machinery, Artificial Intelligence, IIoT, Traceability, Technology-based applications, Data analytics, Engineering emotions, etc.."
+    }
+  ]
+}
